@@ -1,0 +1,11 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    max-width: 800px;
+    background-color: rgb(230, 248, 248);
+    margin: 0 auto;
+    box-shadow: 10px 10px 40px -1px rgb(0 0 0 / 23%);
+}
